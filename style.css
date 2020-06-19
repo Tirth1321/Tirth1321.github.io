@@ -10,6 +10,10 @@ body{
 h1,h2,h3{
     font-family: Helvetica, Arial, sans-serif;
 }
+#image{
+    size : 20%;
+    margin : top 0 0;
+}
 #container{
     width: 760px;
     margin: 0 auto;
